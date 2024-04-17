@@ -1,7 +1,7 @@
 {
-  "name": "word_counter",
+  "name": "text_word_counter",
   "version": "1.0.0",
-  "description": "",
+  "description": "text_word_counter is a tool that quickly and accurately counts the number of words in any text. It's perfect for writers, students, and editors to assess text length and complexity easily.",
   "main": "index.js",
   "type": "module",
   "bin": "main.js",
